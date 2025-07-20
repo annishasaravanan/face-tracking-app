@@ -1,5 +1,3 @@
-'use client';
-
 import React, { useState, useRef } from 'react';
 import CameraView from '../components/CameraView';
 import FaceTracker from '../components/FaceTracker';
